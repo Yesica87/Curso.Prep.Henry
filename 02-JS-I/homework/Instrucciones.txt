@@ -1,0 +1,8 @@
+Conceptos
+	* Variables: Es información, a la cual le designamos un nombre para poder registrarla o reconocerla facilmente.
+	* Strings: Texto o conjunto de palabras contenidas entre comillas "".
+	* Funciones (argumentos, `return`) Hay variedad de funciones que podemos usar para realizar un cometido o devolver un resultado. 
+    Argumentos: Realiza una acción. 
+    Return: Devuelve un valor.
+	* Declaraciones `if`: sirve para evaluar si una condicion es falsa (false ) o Verdadera (true). Si es verdadera retorna en true. Sino se ejecuta else, y si es necesario else if.
+	* Valores booleanos (`true`, `false`): evaluan una condicion en verdadero o falso   
