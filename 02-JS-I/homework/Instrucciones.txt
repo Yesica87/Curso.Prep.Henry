@@ -1,4 +1,4 @@
-Conceptos
+	Conceptos
 	* Variables: Es información, a la cual le designamos un nombre para poder registrarla o reconocerla facilmente.
 	* Strings: Texto o conjunto de palabras contenidas entre comillas "".
 	* Funciones (argumentos, `return`) Hay variedad de funciones que podemos usar para realizar un cometido o devolver un resultado. 

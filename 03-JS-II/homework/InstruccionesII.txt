@@ -1,0 +1,5 @@
+    Conceptos:
+ `for`:Sirve para realizar bucles, repitiendo datos X cantidad de veces.
+ `&&`: Suma dos expresiones o mas, de vuelve true si todas son verdaderas.
+ `||`: Evalúa si al menos una de las expresiones es verdadera.
+ `!`: not. Evalúa la expresion en true o false, devolviendo el valor contrario.
